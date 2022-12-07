@@ -1,0 +1,67 @@
+.ShowCards-texts{
+    margin-top: 50px;
+}
+.ShowCards-textsTitle{
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: white;
+}
+.ShowCards-textsDescription{
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: white;
+    padding-top: 24px;
+}
+.selectShowCard{
+    border: 1px solid #8C8C8C;
+   background: #F5F5F51A;
+    padding: 15px 20px;
+    border-radius: 20px;
+    max-width: 150px;
+    margin: 50px 0px;
+    display: flex !important;
+    justify-content: center !important;
+}
+.ShowSelect{
+    border: none;
+    outline: none;
+    background: transparent;
+    width: 100%;
+    color: white;
+}
+.ShowSelect option{
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+@media (max-width:768px){
+    .SectionShowCard{
+        margin: auto;
+    }
+.selectShowCard{
+    margin: auto;
+}
+.ShowCards-textsTitle{
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}
+.ShowCards-textsDescription{
+    text-align: center;
+    font-size: 18px;
+}
+}
+
+.page-item{
+    cursor: pointer;
+}
+

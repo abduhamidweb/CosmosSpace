@@ -1,0 +1,59 @@
+.Acartion {
+  margin-top: 88px;
+  .acartion-title {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .accordion-flush {
+    margin-top: 56px;
+  }
+  .accordion-header {
+    border: 2px solid #b3b3b3 !important;
+    margin-top: 15px;
+    border-radius: 140px;
+  }
+  .accordion-button {
+    color: #b3b3b3 !important;
+    font-family: sans-serif "Courier New", Courier, monospace !important;
+  }
+  .accordion-flush .accordion-item {
+    border-bottom: none !important;
+  }
+  .accordion-button::after {
+    background-image: url("../../assets/images/plus.png");
+  }
+  .accordion-flush .accordion-button:not(.collapsed) {
+    box-shadow: none;
+  }
+  .accordion-flush .accordion-button:not(.collapsed) {
+    background: none !important;
+  }
+  .accordion-body {
+    color: #cdcaca;
+  }
+  .acartion-Link {
+    margin-top: 24px;
+    padding-left: 20px;
+    a {
+      max-width: 345px;
+      font-family: "Raleway";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      /* identical to box height */
+
+      text-align: center;
+      text-decoration-line: underline;
+
+      /* Black 25 */
+
+      color: #b3b3b3;
+    }
+  }
+}

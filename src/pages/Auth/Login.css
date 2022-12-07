@@ -1,0 +1,67 @@
+.LoginSection{
+    padding-top: 100px;
+}
+.LoginWrapper{
+    max-width: 450px;
+    margin: auto;
+}
+.LoginForm{
+    display: flex;
+    flex-direction: column;
+}
+.loginEmailLabel{
+        padding: 10px 0px;
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+        cursor: pointer;
+        font-family: "Raleway";
+}
+.loginEmailInput{
+    max-width: 450px;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 69px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    background: #1D1056;
+    border: 1px solid grey;
+}
+.loginEmailInput:focus{
+background: #1D1056;
+}
+.loginPasswordLabel{
+     padding: 10px 0px;
+     font-size: 18px;
+     font-weight: bold;
+     color: white;
+     cursor: pointer;
+     font-family: "Raleway";
+}
+.loginPasswordInput{
+   max-width: 450px;
+   width: 100%;
+   padding: 10px 15px;
+   border-radius: 69px;
+   border: none;
+   color: white;
+   font-size: 18px;
+   background: #1D1056;
+   border: 1px solid grey;
+}
+.loginPasswordInput:focus{
+    background: #1D1056;
+}
+.LoginSubmitBtn{
+     padding: 10px 30px;
+     font-size: 20px;
+     font-weight: 900;
+     color: white;
+     border: none;
+     background: #3713db;
+     border-radius: 20px;
+     font-family: "Raleway";
+     margin-top: 30px;
+     
+}

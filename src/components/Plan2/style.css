@@ -1,0 +1,240 @@
+.PlanTwoLinks{
+        max-width: 650px;
+        margin: auto;
+        border-radius: 69px;
+        display: flex;
+        justify-content: space-between;
+        overflow: hidden;
+        margin-top: 55px;
+        background: #F5F5F526;
+}
+.PlanTwoLinks a{
+     padding: 22px 56px;
+     border-radius: 69px;
+   font-family: Raleway;
+   font-size: 20px;
+   font-weight: 800;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
+    color: white;
+}
+.PlanTwoLinks a:nth-child(2){
+       background: #6200EA;
+       font-weight: 800;
+}
+.plan2-title {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+}
+.plan2-text{
+    color: #B3B3B3;
+    padding-top: 16px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+}
+h2{
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.plan-deck {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 16px;
+}
+.PlanTwoForm{
+    max-width: 822px !important;
+    margin: auto;
+}
+.PlanTwoForm input{
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 69px;
+    border: none;
+    border: 1px solid #595959;
+    background: #311B92;
+    color: white;
+}
+.rowTwo input{
+    max-width: 822px;
+    margin: auto;
+}
+
+.inputPassword{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.inputPassword i{
+    position: absolute;
+    right: 35px;
+    z-index: 999;
+    top: 15px;
+}
+input:focus{
+    outline: none;
+    background: #311B92;
+}
+.passwordDeck{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 5px;
+}
+.planTwo-Deckription{
+    padding: 24px 40px 24px 40px;
+    max-width: 822px;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid #595959;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+
+}
+.planTwo-Deckription p{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+.SignUpPlanTwo{
+    padding: 16px 34px;
+    color: white;
+    border-radius: 69px;
+    background: #3713db;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 700;
+}
+.SignUpPlanTwo:hover{
+    background: #3813db93;
+ color: white;
+}
+.PlanTwoSignIn{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 50px;
+}
+.PlanTwoSignIn a{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+@media only screen and (max-width: 768px) {
+    .PlanTwoLinks{
+        max-width: 510px;
+    }
+      .PlanTwoLinks a {
+          padding: 15px 36px;
+          border-radius: 69px;
+          font-family: Raleway;
+          font-size: 14px;
+          font-weight: 800;
+          line-height: 23px;
+          letter-spacing: 0em;
+          text-align: left;
+          color: white;
+      }
+
+      .PlanTwoLinks a:nth-child(2) {
+          background: #6200EA;
+          font-weight: 800;
+      }
+    input{
+        margin-top: 20px;
+    }
+    .PlanTwoForm{
+        max-width: 550px;
+        margin: auto;
+    }
+    .inputPassword i {
+        position: absolute;
+        right: 35px;
+        z-index: 999;
+        top: 39px;
+    }
+    .inputPassword:nth-child(1){
+        margin-top: -20px;
+    }
+}
+@media only screen and (max-width: 390px){
+    .SignUpPlanTwo{
+        max-width: 380px;
+        font-size: 12px;
+        padding: 10px 16px;
+    }
+}
+@media only screen and (max-width: 320px) {
+          .PlanTwoLinks a {
+              padding: 9px 16px;
+              border-radius: 69px;
+              font-family: Raleway;
+              font-size: 16px;
+              font-weight: 800;
+              line-height: 23px;
+              letter-spacing: 0em;
+              text-align: left;
+              color: white;
+              
+          }
+
+          .PlanTwoLinks a:nth-child(2) {
+              background: #6200EA;
+              font-weight: 800;
+          }
+          .planTwo-Deckription {
+              padding: 14px 18px 14px 18px;
+              max-width: 380px;
+              margin: auto;
+              border-radius: 20px;
+              border: 1px solid #595959;
+              text-align: center;
+              color: white;
+              margin-top: 25px;
+
+          }
+
+          .planTwo-Deckription p {
+              font-family: Raleway;
+              font-size: 12px;
+              font-weight: 400;
+              line-height: 19px;
+              letter-spacing: 0em;
+              text-align: center;
+              margin-bottom: 20px;
+
+          }
+          .SignUpPlanTwo {
+              padding: 8px 14px;
+              color: white;
+              border-radius: 69px;
+              background: #3713db;
+              font-family: Raleway;
+              font-size: 9px;
+              font-weight: 700;
+              background-color: red;
+          }
+}

@@ -1,0 +1,95 @@
+.navbar {
+  box-shadow: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  background: transparent;
+}
+.registrition {
+  .btn {
+    &:hover {
+      border: 1px solid #f5f5f5;
+    }
+    &:nth-child(2) {
+      border: 1px solid transparent;
+    }
+  }
+
+  a {
+    border-radius: 124px;
+    border: 1px solid #f5f5f5;
+    padding: 12px 40px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* Black 10 */
+
+    color: #000000;
+
+    &:nth-child(1) {
+      margin-right: 15px;
+      font-family: "Raleway";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 16px;
+
+      /* Black 10 */
+
+      color: #f5f5f5;
+      &:active {
+        color: #f5f5f5c3;
+      }
+    }
+    &:nth-child(2) {
+      border: 1px solid transparent;
+      background: #6200ea;
+      font-family: "Raleway";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 16px;
+      text-transform: uppercase;
+
+      /* Black 10 */
+
+      color: #f5f5f5;
+      &:active {
+        color: #f5f5f5c3;
+      }
+    }
+  }
+}
+@media only screen and (max-width:768px) {
+  .navbar-brand{
+    img{
+      height: 25px;
+    }
+  }
+}
+@media only screen and (max-width: 576px) {
+    .navbar-brand{
+    img{
+      height: 20px;
+    }
+  }
+  .registrition a {
+    padding: 10px 15px !important;
+    font-size: 13px !important;
+  }
+}
+@media only screen and (max-width: 390px) {
+  .registrition a {
+    padding: 9px 10px !important;
+    font-size: 10px !important;
+  }
+    .navbar-brand{
+    img{
+      height: 15px;
+    }
+  }
+}

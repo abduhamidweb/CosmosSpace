@@ -1,0 +1,123 @@
+
+.sign-text{
+ width: 310px;
+font-family: Raleway;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+display: flex;
+text-align: center;
+margin: 24px auto;
+}
+.sign-title{
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.forgot{
+    color: #595959;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+}
+.inputOne{
+    border: 1px solid #595959;
+    border-radius: 69px;
+    width: 401px;
+    padding: 0;
+    overflow: hidden;
+}
+.inputTwo {
+    border: 1px solid #595959;
+    border-radius: 69px;
+    width: 401px;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(49, 33, 125);
+}
+.inputTwo i{
+    position: relative;
+    top: 15px;
+    right: 20px;
+}
+::placeholder{
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+}
+input{
+    padding: 15px 20px;
+      background: rgb(49, 33, 125);
+      border: none;
+      width: 100%;
+      color: white;
+      font-weight: bold;
+}
+input:focus{
+    outline: none;
+    border: none;
+}
+.form2{
+    width: 401px;
+    display: flex;
+    justify-content: center;
+    margin: auto
+}
+.form2 input{
+    width: 20px;
+    color: rgb(49, 33, 125);
+
+}
+.SignWatching{
+    color: white;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 700;
+    width: 401px;
+    border: 1px solid #6200EA;
+    background: #6200EA;
+    padding: 16px 34px;
+    border-radius: 123px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin: 56px auto 32px  auto;
+}
+.SignWatching:hover{
+    color: white;
+}
+.form2 label{
+    padding-left: 10px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.botton-link{
+    text-align: center;
+    padding-top: 72px;
+    font-family: Raleway;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.botton-link a{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}

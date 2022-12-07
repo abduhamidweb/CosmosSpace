@@ -1,0 +1,203 @@
+{
+  "cosmosThreeCards": [
+    {
+      "cardImg": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardTitle": "Cosmic Cliffs",
+      "cardDecription": "This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula."
+    },
+
+    {
+      "cardImg": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2107&q=80",
+      "cardTitle": "Particle Fever",
+      "cardDecription": "As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time -- or perhaps their greatest failure."
+    },
+    {
+      "cardImg": "https://images.unsplash.com/photo-1630839437035-dac17da580d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80",
+      "cardTitle": "Red Heaven",
+      "cardDecription": "After a year of living on “Mars” the lines between reality and simulation blur. Following a crew of 6 led by a female physicist, RED HEAVEN takes viewers inside a year-long NASA psychological experiment"
+    }
+  ],
+
+  "cosmosFourCards": [
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1517976384346-3136801d605d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "Life As An Astronaut",
+      "sapceDesc": "Called the Cosmic Cliffs, the region is actually the edge of a gigantic, gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.",
+      "spaceSeason": "Season 01",
+      "spaceTime": "01 hour 20 minutes"
+    },
+
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "The Space Shuttle",
+      "sapceDesc": "So-called mountains — some towering about 7 light-years high — are speckled with glittering, young stars imaged in infrared light. A cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located above the area shown in this image. The blistering, ultraviolet radiation from these stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars rise above the glowing wall of gas, resisting this radiation.",
+      "spaceSeason": "Season 03",
+      "spaceTime": "01 hour 32 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-traveling-through-beautiful-nebulas-in-space-26790-large.mp4",
+      "spaceTitle": "Trek: Future or Fiction",
+      "sapceDesc": "Called the Cosmic Cliffs, Webb’s seemingly three-dimensional picture looks like craggy mountains on a moonlit evening. In reality, it is the edge of the giant, gaseous cavity within NGC 3324, and the tallest “peaks” in this image are about 7 light-years high.",
+      "spaceSeason": "Season 01",
+      "spaceTime": "01 hour 30 minutes"
+    },
+
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-observatory-under-a-starry-sky-4363-large.mp4",
+      "spaceTitle": "Life Outside The Solar System",
+      "sapceDesc": "The blistering, ultraviolet radiation from the young stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars tower above the glowing wall of gas, resisting this radiation. The “steam” that appears to rise from the celestial “mountains” is actually hot, ionized gas and hot dust streaming away from the nebula due to the relentless radiation. ",
+      "spaceSeason": "Season 01",
+      "spaceTime": "01 hour 45 minutes"
+    }
+  ],
+
+
+
+  "cosmosShowPageCards": [
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-traveling-through-beautiful-nebulas-in-space-26790-large.mp4",
+      "spaceTitle": "Trek: Future or Fiction",
+      "sapceDesc": "Called the Cosmic Cliffs, Webb’s seemingly three-dimensional picture looks like craggy mountains on a moonlit evening. In reality, it is the edge of the giant, gaseous cavity within NGC 3324, and the tallest “peaks” in this image are about 7 light-years high.",
+      "spaceSeason": "Season 04",
+      "spaceTime": "01 hour 30 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1517976384346-3136801d605d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "Life As An Astronaut",
+      "sapceDesc": "Called the Cosmic Cliffs, the region is actually the edge of a gigantic, gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.",
+      "spaceSeason": "Season 01",
+      "spaceTime": "01 hour 20 minutes"
+    },
+
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "The Space Shuttle",
+      "sapceDesc": "So-called mountains — some towering about 7 light-years high — are speckled with glittering, young stars imaged in infrared light. A cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located above the area shown in this image. The blistering, ultraviolet radiation from these stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars rise above the glowing wall of gas, resisting this radiation.",
+      "spaceSeason": "Season 03",
+      "spaceTime": "01 hour 32 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-observatory-under-a-starry-sky-4363-large.mp4",
+      "spaceTitle": "Life Outside The Solar System",
+      "sapceDesc": "The blistering, ultraviolet radiation from the young stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars tower above the glowing wall of gas, resisting this radiation. The “steam” that appears to rise from the celestial “mountains” is actually hot, ionized gas and hot dust streaming away from the nebula due to the relentless radiation. ",
+      "spaceSeason": "Season 03",
+      "spaceTime": "01 hour 45 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-traveling-through-beautiful-nebulas-in-space-26790-large.mp4",
+      "spaceTitle": "Trek: Future or Fiction",
+      "sapceDesc": "Called the Cosmic Cliffs, Webb’s seemingly three-dimensional picture looks like craggy mountains on a moonlit evening. In reality, it is the edge of the giant, gaseous cavity within NGC 3324, and the tallest “peaks” in this image are about 7 light-years high.",
+      "spaceSeason": "Season 01",
+      "spaceTime": "01 hour 30 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1517976384346-3136801d605d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "Life As An Astronaut",
+      "sapceDesc": "Called the Cosmic Cliffs, the region is actually the edge of a gigantic, gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.",
+      "spaceSeason": "Season 04",
+      "spaceTime": "01 hour 20 minutes"
+    },
+
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-observatory-under-a-starry-sky-4363-large.mp4",
+      "spaceTitle": "Life Outside The Solar System",
+      "sapceDesc": "The blistering, ultraviolet radiation from the young stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars tower above the glowing wall of gas, resisting this radiation. The “steam” that appears to rise from the celestial “mountains” is actually hot, ionized gas and hot dust streaming away from the nebula due to the relentless radiation. ",
+      "spaceSeason": "Season 01",
+      "spaceTime": "01 hour 45 minutes"
+    },
+
+    
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1446776858070-70c3d5ed6758?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "The Space Shuttle",
+      "sapceDesc": "So-called mountains — some towering about 7 light-years high — are speckled with glittering, young stars imaged in infrared light. A cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located above the area shown in this image. The blistering, ultraviolet radiation from these stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars rise above the glowing wall of gas, resisting this radiation.",
+      "spaceSeason": "Season 02",
+      "spaceTime": "01 hour 32 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1460186136353-977e9d6085a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-observatory-under-a-starry-sky-4363-large.mp4",
+      "spaceTitle": "Life Outside The Solar System",
+      "sapceDesc": "The blistering, ultraviolet radiation from the young stars is sculpting the nebula’s wall by slowly eroding it away. Dramatic pillars tower above the glowing wall of gas, resisting this radiation. The “steam” that appears to rise from the celestial “mountains” is actually hot, ionized gas and hot dust streaming away from the nebula due to the relentless radiation. ",
+      "spaceSeason": "Season 02",
+      "spaceTime": "01 hour 45 minutes"
+    },
+    {
+      "posterVideo": "https://images.unsplash.com/photo-1517976384346-3136801d605d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+      "cardVideo": "https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4",
+      "spaceTitle": "Life As An Astronaut",
+      "sapceDesc": "Called the Cosmic Cliffs, the region is actually the edge of a gigantic, gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.",
+      "spaceSeason": "Season 03",
+      "spaceTime": "01 hour 20 minutes"
+    }
+  ],
+
+  "sliderCardforHomePage":[
+
+    {
+      "cardImg": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardTitle": "Cosmic Cliffs",
+      "cardDecription": "This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula."
+    },
+
+    {
+      "cardImg": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2107&q=80",
+      "cardTitle": "Particle Fever",
+      "cardDecription": "As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time -- or perhaps their greatest failure."
+    },
+    {
+      "cardImg": "https://images.unsplash.com/photo-1630839437035-dac17da580d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80",
+      "cardTitle": "Red Heaven",
+      "cardDecription": "After a year of living on “Mars” the lines between reality and simulation blur. Following a crew of 6 led by a female physicist, RED HEAVEN takes viewers inside a year-long NASA psychological experiment"
+    },
+
+    {
+      "cardImg": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardTitle": "Cosmic Cliffs",
+      "cardDecription": "This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula."
+    },
+
+    {
+      "cardImg": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2107&q=80",
+      "cardTitle": "Particle Fever",
+      "cardDecription": "As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time -- or perhaps their greatest failure."
+    },
+    {
+      "cardImg": "https://images.unsplash.com/photo-1630839437035-dac17da580d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80",
+      "cardTitle": "Red Heaven",
+      "cardDecription": "After a year of living on “Mars” the lines between reality and simulation blur. Following a crew of 6 led by a female physicist, RED HEAVEN takes viewers inside a year-long NASA psychological experiment"
+    },
+    {
+      "cardImg": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "cardTitle": "Cosmic Cliffs",
+      "cardDecription": "This landscape of “mountains” and “valleys” speckled with glittering stars is actually the edge of a nearby, young, star-forming region called NGC 3324 in the Carina Nebula."
+    },
+
+    {
+      "cardImg": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2107&q=80",
+      "cardTitle": "Particle Fever",
+      "cardDecription": "As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time -- or perhaps their greatest failure."
+    },
+    {
+      "cardImg": "https://images.unsplash.com/photo-1630839437035-dac17da580d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80",
+      "cardTitle": "Red Heaven",
+      "cardDecription": "After a year of living on “Mars” the lines between reality and simulation blur. Following a crew of 6 led by a female physicist, RED HEAVEN takes viewers inside a year-long NASA psychological experiment"
+    }
+
+
+  ]
+
+
+}

@@ -1,0 +1,179 @@
+.profileSection {
+  transition: all 0.4s  ease;
+  .dropdown-toggle::before {
+    display: none !important;
+  }
+  .dropdown-toggle::after {
+    display: inline-block !important;
+  }
+
+  .dropdown-toggle {
+    color: white;
+    background: #6200ea;
+    border-radius: 165px;
+    overflow: hidden;
+    padding: 12px 16px !important;
+    .welcomUSER {
+      font-family: "Raleway";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 23px;
+      letter-spacing: -0.04em;
+
+      color: #ffffff;
+    }
+    .USER {
+      margin-left: 10px;
+      font-family: "Raleway";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 23px;
+      letter-spacing: -0.04em;
+
+      color: #ffffff;
+    }
+  }
+}
+.profileSection {
+  background: #6200ea;
+  cursor: pointer;
+  position: relative;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.UserNameFirst {
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+  height: 40px;
+  display: inline-block;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  font-size: 30px;
+}
+.dropdown {
+  align-items: center;
+}
+.childElement {
+  transition: all 0.4s ease;
+  background: #6200ea;
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  width: 100%;
+  padding: 30px 0;
+  ul {
+    padding-left: 20px;
+    margin: 0;
+    li {
+      padding: 10px 0px;
+      display: flex;
+      justify-content: flex-end;
+      font-family: "Raleway";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 20px;
+      line-height: 23px;
+      letter-spacing: -0.04em;
+      margin-right: 38px;
+      &:hover {
+        span {
+          color: #ffffffb9;
+        }
+        i {
+          color: #ffffffab;
+        }
+      }
+      span {
+        margin-right: 10px;
+        color: #ffffff;
+      }
+      i {
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+.childElement {
+  display: none;
+  transition: all 01s ease;
+  overflow: hidden;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.toogleMenu {
+  display: flex;
+  overflow: visible;
+}
+.borderAddMenu {
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+  border-bottom-right-radius: 0pc;
+  border-bottom-left-radius: 0px;
+}
+@media only screen and (max-width: 992px) {
+  .homeHeadre .dropdown-toggle {
+    margin: 20px 0;
+  }
+  .homeHeadre .thisInputHero {
+    margin: 0 0 20px 0;
+  }
+
+  .homeHeadre .navbar-collapse .thisProfile {
+    max-width: 387px;
+    margin: 20px 0;
+  }
+  .homeHeadre .dropdown-toggle {
+    margin: 0;
+  }
+  .childElement {
+    z-index: 12;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+
+  .profileSection{
+    max-width: 320px;
+  }
+  .profileSection .dropdown-toggle .welcomUSER {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: -0.04em;
+    color: #ffffff;
+}
+.profileSection .dropdown-toggle .USER {
+    margin-left: 10px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 23px;
+    letter-spacing: -0.04em;
+    color: #ffffff;
+}
+.UserNameFirst {
+    width: 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+    height: 25px;
+    display: inline-block;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+}

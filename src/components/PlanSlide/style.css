@@ -1,0 +1,231 @@
+.planTitle h2 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: center;
+    color: white;
+}
+
+.planTitle p {
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 32px;
+    color: white;
+}
+
+.planLinks {
+    max-width: 650px;
+    margin: auto;
+    border-radius: 69px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    margin-top: 55px;
+}
+
+.planLinks a {
+    padding: 22px 56px;
+    border-radius: 69px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+
+
+.recomended {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    color: white;
+}
+
+.recomended p {
+    padding-left: 10px;
+}
+
+.planCard {
+    max-width: 377px;
+    padding: 36px;
+    border: 3px solid #595959;
+    border-radius: 20px;
+    margin: auto;
+
+}
+
+
+.planCard h2 {
+    text-align: center;
+    color: white;
+}
+
+.planCard-text {
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 24px;
+    color: white;
+}
+
+.planCard ul {
+    padding: 0;
+    min-height: 300px;
+}
+
+.planCard li {
+    list-style-type: none;
+    padding: 0;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.planCard span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.planCard span h2 {
+    /* font-family: Raleway; */
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    letter-spacing: -0.06em;
+    text-align: center;
+    color: #595959;
+
+}
+
+
+
+.planCard span p {
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 20px;
+    color: #595959;
+}
+
+.plan-sign {
+    display: flex;
+    justify-content: center;
+    padding: 14px 48px;
+    color: white;
+    border-radius: 68px;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    margin-top: 24px;
+    background-color: #595959;
+}
+
+
+
+
+.plan-see {
+    text-align: center;
+    padding-top: 32px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+   
+
+@media only screen and (max-width: 992px){
+     .planCard a {
+         background: #6200EA !important;
+     }
+
+     .planCard {
+         margin: 20px auto;
+         border: 3px solid #6200EA !important;
+     }
+
+     .planCard h2:nth-child(1) {
+         color: #6200EA !important;
+     }
+
+     .planCard a {
+         background: #6200EA !important;
+     }
+}
+@media only screen and (max-width: 768px) {
+    .planLinks a {
+        padding: 16px 36px;
+        border-radius: 69px;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 400;
+        color: white;
+    }
+
+
+    .planCard {
+        margin: 20px auto;
+    }
+    .planCard a{
+        background: #6200EA !important;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .planLinks {
+        max-width: 520px;
+    }
+
+    .planLinks a {
+        padding: 7px 22px;
+        border-radius: 69px;
+        font-family: Raleway;
+        font-size: 12px;
+        font-weight: 400;
+        color: white;
+    background: #6200EA;
+    font-weight: 500;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 320px) {
+    .planLinks {
+        max-width: 300px;
+    }
+
+    .planLinks a {
+        padding: 7px 22px;
+        border-radius: 69px;
+        font-family: Raleway;
+        font-size: 10px;
+        font-weight: 400;
+        color: white;
+
+    }
+}

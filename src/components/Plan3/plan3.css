@@ -1,0 +1,260 @@
+.PlanThreeLinks {
+    max-width: 650px;
+    margin: auto;
+    border-radius: 69px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    margin-top: 55px;
+    background: #F5F5F526;
+}
+
+.PlanThreeLinks a {
+    padding: 22px 56px;
+    border-radius: 69px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.PlanThreeLinks a:nth-child(3) {
+    background: #6200EA;
+    font-weight: 800;
+}
+
+.plan3-title {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 56px;
+    color: white;
+}
+
+.plan3-deck {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    margin-top: 24px;
+
+}
+.info{
+    max-width: 822px;
+    margin: 40px auto;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 26.5px;
+    background: #F5F5F526;
+}
+.info h2{
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+.info p{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.plan3-text {
+    color: #B3B3B3;
+    padding-top: 16px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+form {
+    max-width: 822px;
+}
+
+.col-12 input {
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 69px;
+    border: none;
+    background: #311B92;
+    color: white;
+}
+
+.col-6 input {
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 69px;
+    border: none;
+    background: #311B92;
+    color: white;
+}
+.input-flex input{
+     width: 100%;
+    padding: 15px 20px;
+    border-radius: 69px;
+    border: none;
+    background: #311B92;
+    color: white;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+        background-color: #3713db !important;
+        accent-color: #3713db !important;
+}
+
+input:focus {
+    outline: none;
+    background: #311B92;
+}
+#checkboxWrapper{
+    max-width: 400px;
+}
+.planTwo-Deckription2 {
+    padding: 24px 40px 34px 40px;
+    max-width: 822px;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid #595959;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+
+}
+
+.planTwo-Deckription2 p {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.SignUpPlanTwo2 {
+    padding: 16px 34px;
+    color: white;
+    border-radius: 69px;
+    background: #3713db;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.SignUpPlanTwo2:hover {
+    background: #3813db9f;
+    color: white;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .PlanThreeLinks a {
+        padding: 15px 56px;
+        border-radius: 69px;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 800;
+        line-height: 23px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: white;
+    }
+
+   
+
+    .input-flex:nth-child(2) {
+        margin-top: 20px;
+    }
+    input[type="checkbox"] {
+        width: 20px;
+        margin-top: 0;
+    }
+}
+@media only screen and (max-width: 576px){
+    .PlanThreeLinks{
+        max-width: 520px;
+    }
+         .PlanThreeLinks a {
+             padding: 15px 36px;
+             border-radius: 69px;
+             font-family: Raleway;
+             font-size: 16px;
+             font-weight: 800;
+             line-height: 23px;
+             letter-spacing: 0em;
+             text-align: left;
+             color: white;
+         }
+
+        
+}
+@media only screen and (max-width: 390px){
+    .PlanThreeLinks {
+        max-width: 380px;
+    }
+     .PlanThreeLinks a {
+         padding: 9px 26px;
+         border-radius: 69px;
+         font-family: Raleway;
+         font-size: 12px;
+         font-weight: 800;
+         line-height: 23px;
+         letter-spacing: 0em;
+         text-align: left;
+         color: white;
+     }
+     .info {
+         max-width: 380px;
+         margin: 20px auto;
+         border: 1px solid white;
+         border-radius: 20px;
+         padding: 16.5px;
+         background: #F5F5F526;
+     }
+
+     .info h2 {
+         font-family: Raleway;
+         font-size: 16px;
+         font-weight: 700;
+         padding-top: 10px;
+     }
+
+     .info p {
+         padding-top: 10px;
+         padding-right: 10px;
+     }
+     .planTwo-Deckription2 {
+         padding: 16px 20px 16px 20px;
+         max-width: 382px;
+         margin: auto;
+         border-radius: 20px;
+         border: 1px solid #595959;
+         text-align: center;
+         color: white;
+         margin-top: 50px;
+
+     }
+
+     .planTwo-Deckription2 p {
+         font-family: Raleway;
+         font-size: 14px;
+         font-weight: 400;
+         line-height: 19px;
+         letter-spacing: 0em;
+         text-align: center;
+         margin-bottom: 20px;
+     }
+     .SignUpPlanTwo2{
+        font-size: 12px;
+        max-width: 380px;
+     }
+}

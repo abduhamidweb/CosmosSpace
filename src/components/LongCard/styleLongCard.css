@@ -1,0 +1,71 @@
+
+
+.longCard {
+  width: 300px;
+  border-radius: 20px;
+  background: transparent;
+  color: #fff;
+  margin-bottom: 60px;
+}
+.longCardImgWrapp {
+  border-radius: 20px !important;
+  border: 2px solid rgba(191, 191, 191, 0.444);
+  position: relative;
+}
+.longCardImg {
+  height: 398px;
+}
+.starText {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 15px;
+  left: 13px;
+  /* background: #8c8c8c; */
+  border-radius: 62px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  color: #f5f5f5;
+  padding: 4px 12px 4px 6px;
+  cursor: pointer;
+}
+.starText i {
+  padding: 0 6px 0px 10px;
+  font-size: 10px;
+}
+.longCardTitle {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #f5f5f5;
+}
+.longCardText {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #8c8c8c;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (max-width: 576px) {
+}
+
+@media only screen and (max-width: 320px) {
+}
+

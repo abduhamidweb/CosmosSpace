@@ -1,0 +1,113 @@
+.ShowCardRow{
+    max-width: 1236px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ShowCards{
+    max-width: 296px;
+}
+.ShowCardImg {
+    width: 296px !important;
+    border-radius: 20px;
+}
+.ShowCardsTexts{
+    max-width: 916px;
+    padding-top: 9px;
+    margin-left: 20px;
+}
+.ShowCardTitle{
+    text-align: left;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+}
+.ShowCardInfo{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+    padding-top: 10px;
+}
+.ShowCardDescription{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8C8C8C;
+}
+@media (max-width:992px){
+    .ShowCards {
+        max-width: 336px;
+    }
+
+    .ShowCardImg {
+        width: 336px !important;
+        border-radius: 20px;
+    }
+    .ShowCardDescription{
+        font-size: 12px;
+    }
+    .ShowCardInfo{
+        margin-top: -10px;
+    }
+    .ShowCardsTexts{
+        margin-left: 20px;
+    }
+}
+@media (max-width:768px){
+    .ShowCardRow{
+        flex-direction: column;
+        margin: auto;
+        align-items: center;
+        margin: 20px 0px;
+    }
+    .ShowCards {
+        max-width: 336px;
+    }
+
+    .ShowCardImg {
+        width: 336px !important;
+        border-radius: 20px;
+    }
+    .ShowCardTitle{
+        text-align: center;
+    }
+
+    .ShowCardDescription {
+        font-size: 12px;
+        text-align: center;
+       
+    }
+
+    .ShowCardInfo {
+        text-align: center;
+        font-weight: 900;
+        font-size: 18px;
+    }
+
+    .ShowCardsTexts {
+        margin: auto;
+        margin-left: 0px;
+        max-width: 100%;
+    }
+}
+@media (max-width:368px){
+    .ShowCards {
+        max-width: 296px;
+    }
+
+    .ShowCardImg {
+        max-width: 296px !important;
+        border-radius: 20px;
+    }
+}

@@ -1,0 +1,120 @@
+.signInputsWrapper{
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 450px;
+    margin: auto;
+    border-radius: 20px;
+}
+.signUpForm{
+    display: flex;
+    flex-direction: column;
+}
+.singUpSection{
+    padding-top: 100px;
+    height: 60vh;
+}
+.signInputUserName{
+      max-width: 450px;
+      width: 100%;
+     padding: 10px 15px;
+     border-radius: 69px;
+     border: none;
+     color: white;
+     font-size: 18px;
+      background: #1D1056;
+      border: 1px solid grey;
+}
+.signInputUserName:focus{
+      background: #1D1056;
+}
+
+.SignNameLabel{
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+     font-family: "Raleway";
+}
+.signInputEmail {
+     max-width: 450px;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 69px;
+    border: none;
+    color: white;
+    font-size: 18px;
+     background: #1D1056;
+     border: 1px solid grey;
+}
+.signInputEmail:focus{
+     background: #1D1056;
+}
+
+.SignEmailLabel {
+      padding: 10px 0px;
+      font-size: 18px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+       font-family: "Raleway";
+}
+.SignInputPassword{
+    max-width: 450px;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 69px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    background: #1D1056;
+    border: 1px solid grey;
+}
+.SignInputPassword:focus{
+     background: #1D1056;
+}
+.SignPasswordlabel{
+     padding: 10px 0px;
+     font-size: 18px;
+     font-weight: bold;
+     color: white;
+     cursor: pointer;
+      font-family: "Raleway";
+}
+.signButtons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    flex-direction: column;
+}
+.signSubmitBtn{
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    border: none;
+    background: #3713db;
+    border-radius: 20px;
+     font-family: "Raleway";
+      
+}
+.signSubmitBtn:hover {
+    box-shadow: rgba(247, 246, 251, 0.2) 0px 8px 24px;
+    transition: 0.4s ease;
+}
+.signCloseBtn{
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    border: none;
+    background: #220896;
+    border-radius: 20px;
+     font-family: "Raleway";
+     margin-top: 30px;
+}
+.signCloseBtn:hover{
+    box-shadow: rgba(247, 246, 251, 0.2) 0px 8px 24px;
+    transition: 0.4s ease;
+}
+

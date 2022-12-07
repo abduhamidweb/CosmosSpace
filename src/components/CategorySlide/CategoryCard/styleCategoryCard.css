@@ -1,0 +1,26 @@
+.categoryCard{
+    background-color: transparent;
+    text-align: center;
+}
+
+.categoryCardImg img{
+    object-fit: cover;
+    object-position: center;
+    width: 153px !important;
+    height: 153px !important;
+    border-radius : 20px !important;
+}
+.categoryCardImg{
+  border-radius: 20px;
+    border: 2px solid rgba(118, 118, 118, 0.769);
+}
+.categoryCarTitle{
+    margin-top: 40px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+color: #1D1056;
+}

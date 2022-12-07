@@ -1,0 +1,12 @@
+har bir ishda komentariya yozilfa-spin
+
+concurrently kutubxonasi ornatilsin 
+
+ish boshlashdan oldin git pull va npm i qilinib va npx json-server --watch db.json qilinsin
+
+hamma dev branchiga push qilsin
+
+fro hero link: https://www.pexels.com/ru-ru/video/1851190/
+
+
+
